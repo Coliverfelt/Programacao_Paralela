@@ -1,3 +1,9 @@
+/*
+2)Crie  um programa em linguagem C e Pthreads que pergunte ao usuário se ele deseja criar novas
+threads (0 – Sim ou 1 - Não). O programa deve encerrar quando usuário digitar 2. Caso o usuário
+decidir criar novas threads, uma função genérica qualquer deve ser executada por elas:
+*/
+
 #include<pthread.h>
 #include<stdio.h>
 #include<stdlib.h>

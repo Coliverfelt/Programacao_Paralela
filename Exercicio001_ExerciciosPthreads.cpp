@@ -1,3 +1,9 @@
+/*
+1) Crie   um   programa   em   linguagem   C   e   Pthtreads   que   crie   a   hierarquia   de   threads   abaixo.
+Desconsidere os diferentes tempos de execução e os eventuais processamentos que cada thread
+venha a realizar:
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<pthread.h>
